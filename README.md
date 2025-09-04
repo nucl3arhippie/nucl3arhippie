@@ -3,7 +3,7 @@
 # 💀 nucl3arhippie
 ### 💻 C++ Developer • 🔍 Reverse Engineer • 🎮 Game Hacking Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7F7&center=true&vCenter=true&width=435&lines=Low-level+systems+programming;Reverse+engineering+expert;Game+security+research;Always+learning+new+exploits" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7F7&center=true&vCenter=true&width=500&lines=Low-level+systems+programming;Reverse+engineering+expert;Game+security+research;Always+learning+new+exploits" alt="Typing SVG" />
 
 </div>
 
@@ -11,58 +11,47 @@
 
 <div align="center">
 
-## 🛠️ **Arsenal**
+## 🛠️ Arsenal
 
 <table>
 <tr>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
-<br>C++
+<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /><br>C++
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-<br>JavaScript
+<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br>JavaScript
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-<br>HTML
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /><br>HTML
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-<br>CSS
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /><br>CSS
 </td>
 </tr>
 <tr>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-<br>Linux
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /><br>Linux
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="Windows" />
-<br>Windows
+<img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="Windows" /><br>Windows
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-<br>Git
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br>Git
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-<br>VS Code
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /><br>VS Code
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-<br>Figma
+<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" /><br>Figma
 </td>
 </tr>
 </table>
 
-### 🔧 **Specialized Tools**
-```
+### 🔧 Specialized Tools
 ⚙️ C++17/23 • STL • WinAPI • DirectX • ImGui
-🔍 IDA Pro • Ghidra • x64dbg • Cheat Engine 
-🛡️ Driver Development • Hook Injection • Anti-cheat Bypass
+🔍 IDA Pro • Ghidra • x64dbg • Cheat Engine
+🛡️ Driver Dev • Hook Injection • Anti-cheat Bypass
 🎨 UI/UX Design • Web Development • Reverse Engineering
-```
 
 </div>
 
@@ -70,7 +59,7 @@
 
 <div align="center">
 
-## 📊 **Battle Stats**
+## 📊 Battle Stats
 
 <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=nucl3arhippie&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=nucl3arhippie&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
@@ -85,7 +74,7 @@
 
 <div align="center">
 
-## 🏆 **Achievement Unlocked**
+## 🏆 Achievement Unlocked
 
 <img src="https://github-profile-trophy.vercel.app/?username=nucl3arhippie&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 
@@ -95,7 +84,7 @@
 
 <div align="center">
 
-## 🎯 **Current Mission**
+## 🎯 Current Mission
 
 <table>
 <tr>
@@ -103,7 +92,8 @@
 
 **🚀 Learning**
 - Kernel Development
-- C++
+- Rust & C++
+- Advanced Low-level Programming
 
 </td>
 <td>
@@ -119,13 +109,14 @@
 **🔥 Working On**
 - Game security research
 - Custom cheat frameworks  
-- Web development projects
+- Reverse engineering projects
+- Web development experiments
 
 </td>
 </tr>
 </table>
 
-### 💭 **Philosophy**
+### 💭 Philosophy
 > *"The best way to understand a system is to break it, then rebuild it better."*
 
 </div>
@@ -134,7 +125,7 @@
 
 <div align="center">
 
-## 📡 **Connect With Me**
+## 📡 Connect With Me
 
 <a href="https://t.me/nucl3arhippiemoneygang">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
